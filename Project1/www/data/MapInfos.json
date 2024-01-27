@@ -1,0 +1,20 @@
+[
+null,
+{"id":1,"expanded":true,"name":"起始地圖","order":1,"parentId":0,"scrollX":1092,"scrollY":609.3333333333334},
+{"id":2,"expanded":true,"name":"普通城鎮","order":2,"parentId":1,"scrollX":1081.3333333333333,"scrollY":969.3333333333334},
+{"id":3,"expanded":false,"name":"房子 1","order":3,"parentId":2,"scrollX":1228.5,"scrollY":685.5},
+{"id":4,"expanded":false,"name":"武器商店","order":4,"parentId":2,"scrollX":832,"scrollY":640},
+{"id":5,"expanded":false,"name":"盔甲商店","order":5,"parentId":2,"scrollX":1092,"scrollY":609.3333333333334},
+{"id":6,"expanded":false,"name":"賭場","order":6,"parentId":2,"scrollX":1216.5,"scrollY":1137},
+{"id":7,"expanded":true,"name":"別墅 1F","order":7,"parentId":2,"scrollX":1092,"scrollY":609.3333333333334},
+{"id":8,"expanded":false,"name":"別墅 2F","order":8,"parentId":7,"scrollX":1228.5,"scrollY":685.5},
+{"id":9,"expanded":false,"name":"道具商店","order":10,"parentId":2,"scrollX":1228.5,"scrollY":685.5},
+{"id":10,"expanded":false,"name":"醫院","order":9,"parentId":2,"scrollX":1216.5,"scrollY":1234.5},
+{"id":11,"expanded":false,"name":"大廈","order":11,"parentId":2,"scrollX":1081.3333333333333,"scrollY":1280},
+{"id":12,"expanded":false,"name":"城堡 1F","order":12,"parentId":2,"scrollX":1216.5,"scrollY":1218},
+{"id":13,"expanded":false,"name":"實驗室","order":13,"parentId":2,"scrollX":1092,"scrollY":609.3333333333334},
+{"id":14,"expanded":false,"name":"石窟","order":14,"parentId":1,"scrollX":1216.5,"scrollY":754.5},
+{"id":15,"expanded":false,"name":"漂浮城市","order":15,"parentId":1,"scrollX":1216.5,"scrollY":1024.5},
+{"id":16,"expanded":false,"name":"惡魔城堡 3F","order":16,"parentId":1,"scrollX":1081.3333333333333,"scrollY":888},
+{"id":17,"expanded":false,"name":"END","order":17,"parentId":0,"scrollX":1228.5,"scrollY":685.5}
+]
