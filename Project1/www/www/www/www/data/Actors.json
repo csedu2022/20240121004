@@ -1,0 +1,6 @@
+[
+null,
+{"id":1,"battlerName":"Actor1_1","characterIndex":0,"characterName":"Player1","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"Player1","traits":[{"code":11,"dataId":1,"value":1},{"code":43,"dataId":1,"value":1},{"code":43,"dataId":3,"value":1}],"initialLevel":1,"maxLevel":90,"name":"桐人","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Actor1_8","characterIndex":4,"characterName":"Player1","classId":3,"equips":[3,1,2,3,4],"faceIndex":1,"faceName":"Player1","traits":[{"code":43,"dataId":9,"value":1},{"code":41,"dataId":1,"value":1},{"code":43,"dataId":10,"value":1},{"code":12,"dataId":0,"value":1}],"initialLevel":1,"maxLevel":90,"name":"亞絲娜","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Actor1_1","characterIndex":0,"characterName":"Player2","classId":2,"equips":[0,0,0,0,0],"faceIndex":6,"faceName":"Player1","traits":[],"initialLevel":1,"maxLevel":90,"name":"克萊茵","nickname":"","note":"","profile":""}
+]
